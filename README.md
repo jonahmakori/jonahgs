@@ -117,7 +117,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Support and contact details
 
- - Em jonahmakori0@gmail.com
+ - Ema jonahmakori0@gmail.com
  - Tel: 0700222621
 
 ### License
