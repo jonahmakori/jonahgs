@@ -87,6 +87,8 @@ git clone https://github.com/jonahmakori/gitsearch.git
 
 ## codebeat
 
+My Grade
+
 
 [![codebeat badge](https://codebeat.co/badges/1f290306-6451-4b14-b41b-84385dd026c2)](https://codebeat.co/projects/github-com-jonahmakori-git-search-dev)
 
