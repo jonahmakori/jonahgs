@@ -1,0 +1,9 @@
+.search-form{
+    padding-top: 50px;
+}
+#rcorners2 {
+    border-radius: 25px,100px;
+    background: rgb(173, 164, 33);
+    padding: 20px;
+    width: 150%;
+  }
