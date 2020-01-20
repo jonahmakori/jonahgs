@@ -75,7 +75,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Typescript
 - HTML
 - CSS
-- Bootsrapp
+- Bootstrap
+- 
 
 ## setup/installation
 Open Terminal {Ctrl+Alt+T}
