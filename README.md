@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ## Description
-Github Finder is a web application that uses the GitHub API to perform searches on GitHub and display the results to the user.
+Github Finder, is a web application that uses the GitHub API to perform searches on GitHub and display the results to the user.
 
 ## Features
 
