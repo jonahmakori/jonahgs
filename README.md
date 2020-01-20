@@ -12,7 +12,7 @@ Github Finder is a web application that uses the GitHub API to perform searches 
 
 1. Uses the Github API to perform searches on Github, and display the results to the users.
 2. User's page searches for user profile strictly using the user name.
-3. Repositories page searches for repositories strictly using the repository name.
+3. Repositories page searches for repositories while strictly using the repository name.
 
 
 
